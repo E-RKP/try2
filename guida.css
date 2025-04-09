@@ -48,6 +48,14 @@ body{
     color: white;
   }
 
+  .sfondo{
+    height: 90vh;
+    background-image: url(IMG/abstract-soft-focus-sunset-field-landscape-of-yellow-flowers-and-grass-meadow-warm-golden-hour-sunset-sunrise-time-tranquil-spring-summer-nature-closeup-and-blurred-forest-background-idyllic-nature-photo.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
 
 
 
